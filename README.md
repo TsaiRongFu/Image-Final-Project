@@ -35,4 +35,22 @@ pip install cmake
 
 -------------------------------------------------
 
+Ubuntu環境下安裝
+
+安裝boost和cmake
+
+sudo apt-get install libboost-all-dev
+
+sudo apt-get install cmake
+
+sudo pip install dlib
+
+-------------------------------------------------
+
+Linux安裝跟Mac和Ubuntu類似
+先安裝boost和cmake
+最後在安裝Dlib
+
+-------------------------------------------------
+
 祝大家期末愉快＾＾
