@@ -1,4 +1,4 @@
-![TsaiRongFu/Image-Final-Project](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTsaiRongFu%2FImage-Final-Projectcount_bg=%23ED1ABC&title_bg=% 23787574&icon=linux.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
+![TsaiRongFu/Image-Final-Project](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTsaiRongFu%2FImage-Final-Projectcount_bg=%23ED1ABC&title_bg=%23787574&icon=linux.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
 Windows系統下
 
